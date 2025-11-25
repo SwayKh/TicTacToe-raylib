@@ -59,7 +59,7 @@ Showcase OOP concepts through a small but complete game implementation.
 
 ## 📷 Screenshots
 
-./Screenshot.png
+![Game Screenshot](./Screenshot.png)
 
 ## 🧪 Future Improvements (if teacher asks)
 
