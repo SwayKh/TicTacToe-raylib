@@ -622,7 +622,7 @@ void DrawCredits(GameState &G, const Assets &A) {
   DrawText("CREDITS", 58, 5, 40, GRAY);
 
   // Credit lines.
-  DrawText("Sumit, Raghav, Vijay - Coding", 30, 55, 20, GRAY);
+  DrawText("Sumit, Raghav, Vijay", 30, 55, 20, GRAY);
   DrawText("raylib - Graphics Library", 30, 85, 20, GRAY);
 
   // Clickable link text: raylib.com
